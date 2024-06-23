@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dockertarea:
+    image: ${DOCKER_REGISTRY-}dockertarea
+    build:
+      context: .
+      dockerfile: DockerTarea/Dockerfile

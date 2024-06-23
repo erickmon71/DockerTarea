@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XPC\\OneDrive\\Desktop\\DockerTarea\\DockerTarea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2574CD03-13F1-4625-ACDD-FE0B0823594E}|DockerTarea\\DockerTarea.csproj|c:\\users\\xpc\\onedrive\\desktop\\dockertarea\\dockertarea\\dockertarea\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2574CD03-13F1-4625-ACDD-FE0B0823594E}|DockerTarea\\DockerTarea.csproj|solutionrelative:dockertarea\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2574CD03-13F1-4625-ACDD-FE0B0823594E}|DockerTarea\\DockerTarea.csproj|c:\\users\\xpc\\onedrive\\desktop\\dockertarea\\dockertarea\\dockertarea\\nginx\\nginx.conf||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2574CD03-13F1-4625-ACDD-FE0B0823594E}|DockerTarea\\DockerTarea.csproj|solutionrelative:dockertarea\\nginx\\nginx.conf||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2574CD03-13F1-4625-ACDD-FE0B0823594E}|DockerTarea\\DockerTarea.csproj|c:\\users\\xpc\\onedrive\\desktop\\dockertarea\\dockertarea\\dockertarea\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2574CD03-13F1-4625-ACDD-FE0B0823594E}|DockerTarea\\DockerTarea.csproj|solutionrelative:dockertarea\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2574CD03-13F1-4625-ACDD-FE0B0823594E}|DockerTarea\\DockerTarea.csproj|c:\\users\\xpc\\onedrive\\desktop\\dockertarea\\dockertarea\\dockertarea\\dockertarea.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2574CD03-13F1-4625-ACDD-FE0B0823594E}|DockerTarea\\DockerTarea.csproj|solutionrelative:dockertarea\\dockertarea.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2574CD03-13F1-4625-ACDD-FE0B0823594E}|DockerTarea\\DockerTarea.csproj|c:\\users\\xpc\\onedrive\\desktop\\dockertarea\\dockertarea\\dockertarea\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2574CD03-13F1-4625-ACDD-FE0B0823594E}|DockerTarea\\DockerTarea.csproj|solutionrelative:dockertarea\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Desktop\\DockerTarea\\DockerTarea\\DockerTarea\\Dockerfile",
+              "RelativeDocumentMoniker": "DockerTarea\\Dockerfile",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Desktop\\DockerTarea\\DockerTarea\\DockerTarea\\Dockerfile",
+              "RelativeToolTip": "DockerTarea\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-22T14:49:22.837Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nginx.conf",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Desktop\\DockerTarea\\DockerTarea\\DockerTarea\\nginx\\nginx.conf",
+              "RelativeDocumentMoniker": "DockerTarea\\nginx\\nginx.conf",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Desktop\\DockerTarea\\DockerTarea\\DockerTarea\\nginx\\nginx.conf",
+              "RelativeToolTip": "DockerTarea\\nginx\\nginx.conf",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-22T16:28:35.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Desktop\\DockerTarea\\DockerTarea\\DockerTarea\\docker-compose.yml",
+              "RelativeDocumentMoniker": "DockerTarea\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Desktop\\DockerTarea\\DockerTarea\\DockerTarea\\docker-compose.yml",
+              "RelativeToolTip": "DockerTarea\\docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-22T15:22:22.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DockerTarea",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Desktop\\DockerTarea\\DockerTarea\\DockerTarea\\DockerTarea.csproj",
+              "RelativeDocumentMoniker": "DockerTarea\\DockerTarea.csproj",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Desktop\\DockerTarea\\DockerTarea\\DockerTarea\\DockerTarea.csproj",
+              "RelativeToolTip": "DockerTarea\\DockerTarea.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-22T15:19:27.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Desktop\\DockerTarea\\DockerTarea\\DockerTarea\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "DockerTarea\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Desktop\\DockerTarea\\DockerTarea\\DockerTarea\\Pages\\Index.cshtml",
+              "RelativeToolTip": "DockerTarea\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T14:51:16.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
